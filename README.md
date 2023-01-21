@@ -17,6 +17,6 @@ Most of the real-world data, that we data scientists work with, are raw data, me
 
 This is based on housing prices in Ames, Iowa.This version of the data set has had some missing values filled for convenience.There are an extensive number of features, so they've been described in the table below.
 
-Predictor
+<b> Predictor </b>
 SalePrice: The property's sale price in dollars.
 <b>Features</b> : ,MoSold: Month Sold ,YrSold: Year Sold ,SaleType: Type of sale ,SaleCondition: Condition of sale ,MSSubClass: The building class, MSZoning: The general zoning classification
