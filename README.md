@@ -20,4 +20,9 @@ This is based on housing prices in Ames, Iowa.This version of the data set has h
 
 <b> Predictor </b>
 SalePrice: The property's sale price in dollars.
-<b>Features</b> : ,MoSold: Month Sold ,YrSold: Year Sold ,SaleType: Type of sale ,SaleCondition: Condition of sale ,MSSubClass: The building class, MSZoning: The general zoning classification
+<b>Features</b> : ,MoSold: Month Sold ,YrSold: Year Sold ,SaleType: Type of sale ,SaleCondition: Condition of sale ,MSSubClass: The building class, MSZoning: The general zoning classification:
+
+
+**[ Regression Analysis Trai_Test_split](https://github.com/BlessingNehohwa/Supervised_Machine_Learning_Projects/blob/main/Regression-Train_test_split.ipynb
+).**
+
