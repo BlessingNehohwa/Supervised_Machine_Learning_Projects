@@ -8,7 +8,7 @@ This is a regression analysis on the Boston dataset whereby i wanted to see if t
 ).**
 
 
-### 2. Ames Housing 
+### 2. Ames Housing Analysis
 Most of the real-world data, that we data scientists work with, are raw data, meaning that it can contain repeated, missing, and irrelevant entries of information. Hence, if this data is used in any machine learning analysis, it will result in low accuracy or incorrect prediction. For this reason, data cleaning, also known as data cleansing,data wrangling is an important technique that comes prior to any model building.In this notebook i will use The Ames housing dataset which examines features of houses sold in Ames (a small city in the state of Iowa in the United States) during the 2006–2010 timeframe.
 
 **[Data Wrangling- Ames Housing Data ](https://github.com/BlessingNehohwa/Supervised_Machine_Learning_Projects/blob/main/Regression%20Model%20-%20Target%20transformations.ipynb
